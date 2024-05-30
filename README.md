@@ -1,5 +1,7 @@
 # Welcome to Alex - Your Data Insights Generator bot 🚀
 
+![image](https://github.com/Praveengovianalytics/GenAI-Data-2-Insights-bot/assets/38414524/33bcffd2-8dee-488b-a6a8-1b6279d2127c)
+
 Welcome to Alex, a conceptual proof of concept (PoC) designed to revolutionize the way we generate data insights. Alex is a cutting-edge tool that harnesses the power of Generative AI to transform raw data into actionable insights effortlessly.
 
 ## What is Alex?
